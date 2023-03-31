@@ -1,0 +1,5 @@
+# Script for level 1
+# Lines starting with hash sign are skipped
+
+WAIT(1500);
+MESSAGE(0,500000);

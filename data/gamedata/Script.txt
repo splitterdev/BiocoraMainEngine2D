@@ -1,0 +1,5 @@
+1:data/gamedata/script/level1.dat
+2:data/gamedata/script/level1_q1.dat
+3:data/gamedata/script/level1_q2.dat
+4:data/gamedata/script/level2.dat
+10000:data/gamedata/script/testScript2.txt

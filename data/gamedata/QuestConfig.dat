@@ -1,0 +1,6 @@
+# This is a comment
+# Schema: QUEST Quest_ID, Description_ID, Completion_script_ID, Unlocked_after [ID_1|!ID_2&ID_3]
+# Operands order: NOT (!), AND (&), OR (|)
+
+QUEST 1, 600001, 2, -1;
+QUEST 2, 600002, 3, -1;

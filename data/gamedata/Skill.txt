@@ -1,0 +1,5 @@
+1:data/gamedata/skill/electroBurst.dat
+2:data/gamedata/skill/energyBurst.dat
+3:data/gamedata/skill/energyThrow.dat
+4:data/gamedata/skill/magneticField.dat
+5:data/gamedata/skill/cyberToxin.dat

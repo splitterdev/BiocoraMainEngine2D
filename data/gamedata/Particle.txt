@@ -1,0 +1,9 @@
+100:data/gamedata/particle/Particle_100.txt
+101:data/gamedata/particle/Particle_101.txt
+102:data/gamedata/particle/Particle_102.txt
+200:data/gamedata/particle/glass_1.txt
+201:data/gamedata/particle/glass_2.txt
+202:data/gamedata/particle/glass_3.txt
+210:data/gamedata/particle/metalDebris_1.txt
+211:data/gamedata/particle/metalDebris_2.txt
+212:data/gamedata/particle/metalDebris_3.txt

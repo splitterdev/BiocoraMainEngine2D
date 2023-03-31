@@ -1,0 +1,16 @@
+bin/
+data/audio
+data/font
+data/map
+data/player
+data/textures
+icon/
+mapConverter/
+obj/
+oldStuff_backup/
+trash/
+*.dll
+Biocora P.cbp
+Biocora P.depend
+Biocora P.layout
+*.exe

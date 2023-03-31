@@ -1,0 +1,6 @@
+# Script for level 1
+# Lines starting with hash sign are skipped
+
+SPAWN_PICKUP(118, 853, 301);
+SPAWN_PICKUP(3340, 3822, 302);
+SET_QUEST(1);

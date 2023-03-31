@@ -1,0 +1,11 @@
+1:data/gamedata/bullet/1_rifleAmmo.txt
+2:data/gamedata/bullet/2_laser_red.txt
+3:data/gamedata/bullet/3_laser_green.txt
+4:data/gamedata/bullet/4_laser_blue.txt
+5:data/gamedata/bullet/5_electro_1.txt
+6:data/gamedata/bullet/6_energy_1.txt
+7:data/gamedata/bullet/7_energy_2.txt
+8:data/gamedata/bullet/8_energy_3.txt
+9:data/gamedata/bullet/9_hydrolaser_aa.txt
+10:data/gamedata/bullet/10_j_rep.txt
+999:data/gamedata/bullet/999_melee1.txt

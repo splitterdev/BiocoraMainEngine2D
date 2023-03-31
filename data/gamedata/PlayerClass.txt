@@ -1,0 +1,2 @@
+1:data/gamedata/playerClass/1_commando.dat
+2:data/gamedata/playerClass/2_elf.dat

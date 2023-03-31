@@ -1,0 +1,8 @@
+1:data/gamedata/pickup/Pickup_medkit_1.txt
+2:data/gamedata/pickup/Pickup_medkit_2.txt
+3:data/gamedata/pickup/Pickup_medkit_3.txt
+4:data/gamedata/pickup/Pickup_medkit_4.txt
+101:data/gamedata/pickup/Pickup_battery_1.txt
+201:data/gamedata/pickup/Pickup_coolant_1.txt
+301:data/gamedata/pickup/pickup_wpn_1.txt
+302:data/gamedata/pickup/pickup_wpn_2.txt

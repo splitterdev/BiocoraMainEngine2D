@@ -1,0 +1,13 @@
+1:data/gamedata/explosion/explosion_1.txt
+2:data/gamedata/explosion/AutoBurst.txt
+3:data/gamedata/explosion/ElectroBurst.txt
+999:data/gamedata/explosion/meleeHitEmpty.txt
+3015:data/gamedata/explosion/bullet_basi_r170.txt
+3016:data/gamedata/explosion/bullet_basi_r270.txt
+3017:data/gamedata/explosion/bullet_basi_re50.txt
+4051:data/gamedata/explosion/bullet_laser_red.txt
+4052:data/gamedata/explosion/bullet_laser_green.txt
+4053:data/gamedata/explosion/bullet_laser_blue.txt
+4054:data/gamedata/explosion/bullet_laser_hydro.txt
+4055:data/gamedata/explosion/bullet_rep.txt
+5001:data/gamedata/explosion/server_explosion.txt

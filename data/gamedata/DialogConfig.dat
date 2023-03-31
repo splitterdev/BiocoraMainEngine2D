@@ -1,0 +1,12 @@
+#This is a comment
+#Dialog (ID) marks new dialog config beginning
+DIALOG 1
+	#senderId, senderAvatar, messageId, textColor(hex), waitTimeBefore, isOwnerMessage
+	100020, 10001, 300001, FF0000, 1500.0, 0
+	100020, 10001, 300002, 80C0C0, 500.0, 1
+	100020, 10001, 300003, 80C0C0, 1000.0, 1
+	100020, 10001, 300004, 80C0C0, 5000.0, 0
+DIALOG 2
+	#senderId, senderAvatar, messageId, textColor(hex), waitTimeBefore, isOwnerMessage
+	100020, 10001, 300001, F0F0F0, 2500.0, 0
+	100020, 10001, 300002, F0F0F0, 500.0, 1
